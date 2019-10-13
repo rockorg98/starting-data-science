@@ -1,3 +1,4 @@
+# This file can be directly use to import tweets from twitter and pushing the tweets with some minimum polarity to a CSV file.
 import tweepy 
 from textblob import TextBlob
 import csv
